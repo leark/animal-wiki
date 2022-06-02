@@ -1,0 +1,15 @@
+h1 {
+  margin-bottom: 40px;
+}
+
+img {
+  width: 200px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
